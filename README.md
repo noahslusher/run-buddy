@@ -13,4 +13,3 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with <3 by Noah Slusher
 
-### ©️2019 Run Buddy, Inc 
